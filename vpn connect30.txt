@@ -1,0 +1,2 @@
+vless://9dbd0825-32ca-4f65-96fa-8057c2e5f809@speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=wr900v2ray.com.&fp=chrome&type=ws&sni=speedtest.net#vpn
+vless://9dbd0825-32ca-4f65-96fa-8057c2e5f809@speedtest.net:80?path=%2F&security=none&encryption=none&host=wr900v2ray.com.&type=ws#vpn
